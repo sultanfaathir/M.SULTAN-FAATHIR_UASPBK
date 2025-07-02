@@ -1,0 +1,110 @@
+{
+  "games": [
+    {
+      "id": "1",
+      "title": "Elden Ring",
+      "genre": "Action RPG Fantasy",
+      "price": 599000,
+      "image": "https://gpstatic.com/acache/42/66/1/de/t620x300.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Hades II",
+      "genre": "Roguelike action",
+      "price": 221399,
+      "image": "https://clan.akamai.steamstatic.com/images/43315153/14dd5d40d0b944748deff37cf7bd53da150a8aa4_400x225.png"
+    },
+    {
+      "id": "3",
+      "title": "The Sims 4",
+      "genre": "Simulation",
+      "price": 0,
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/capsule_616x353.jpg?t=1749122165"
+    },
+    {
+      "id": "4",
+      "title": "Mush Dash",
+      "genre": "Rythem",
+      "price": 250000,
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774171/capsule_616x353.jpg?t=1727602742"
+    },
+    {
+      "id": "a779",
+      "title": "Windah OMAGA Limited Edition",
+      "genre": "Game Lanang",
+      "price": 1000000000,
+      "image": "https://us-tuna-sounds-images.voicemod.net/9a7ed3a3-9c3e-41be-99bc-4629942dd6df-1658913901783.jpg"
+    },
+    {
+      "id": "69",
+      "title": "Bengkel Simulator",
+      "genre": "Perbudakan",
+      "price": -500000,
+      "image": "riki.jpg"
+    },
+    {
+      "id": "69",
+      "title": "QUITE🤫",
+      "genre": "Action",
+      "price": 3000,
+      "image": "quite.jpg"
+    },
+    {
+      "id": "69",
+      "title": "Robbery Bob",
+      "genre": "maling",
+      "price": -1100000,
+      "image": "maling.jpg"
+    },
+    {
+      "id": "bed1",
+      "title": "Goblin Slayer",
+      "genre": "Gore",
+      "price": 3500,
+      "image": "https://i.ytimg.com/vi/vkkuf3FrVYE/maxresdefault.jpg"
+    },
+    {
+      "id": "adf8",
+      "title": "assasin creed",
+      "genre": "action",
+      "price": 1000000,
+      "image": "https://gizmologi.id/wp-content/uploads/2025/01/Assasins-Creed-Shadows.jpg"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "name": "Erpan1945",
+      "items": [
+        {
+          "id": 2,
+          "title": "Hades II",
+          "price": 221399,
+          "image": "https://clan.akamai.steamstatic.com/images/43315153/14dd5d40d0b944748deff37cf7bd53da150a8aa4_400x225.png"
+        },
+        {
+          "id": 3,
+          "title": "The Sims 4",
+          "price": 0,
+          "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222670/capsule_616x353.jpg?t=1749122165"
+        }
+      ],
+      "date": "2025-07-01T17:34:26.003Z",
+      "status": "Pending"
+    },
+    {
+      "id": "2",
+      "name": "Windah Habatusauda",
+      "items": [
+        {
+          "id": 1,
+          "title": "Elden Ring",
+          "price": 599000,
+          "image": "https://gpstatic.com/acache/42/66/1/de/t620x300.jpg"
+        }
+      ],
+      "date": "2025-07-01T17:34:26.003Z",
+      "status": "Pending"
+    }
+  ]
+}
